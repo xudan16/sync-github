@@ -1,4 +1,4 @@
-# sync-github
+# Master sync-github
 
 #### 介绍
 sync gitee project to github
