@@ -1,4 +1,4 @@
-# sync-github
+# Release v1.0 sync-github
 
 #### 介绍
 sync gitee project to github
