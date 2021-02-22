@@ -3,6 +3,8 @@
 #### 介绍
 sync gitee project to github
 
+PR 1 on master
+
 #### 软件架构
 软件架构说明
 
